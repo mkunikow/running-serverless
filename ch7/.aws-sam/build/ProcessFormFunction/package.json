@@ -1,0 +1,12 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Source code from chapter 7 of Running Serverless",
+  "main": "app.js",
+  "repository": "https://runningserverless.com",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}

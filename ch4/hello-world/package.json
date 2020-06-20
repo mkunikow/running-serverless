@@ -1,0 +1,9 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "chapter 4 code from RunningServerless",
+  "main": "app.js",
+  "repository": "https://runningserverless.com",
+  "author": "",
+  "license": "MIT"
+}

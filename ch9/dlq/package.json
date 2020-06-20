@@ -1,0 +1,9 @@
+{
+  "name": "dlq-loggin",
+  "version": "1.0.0",
+  "description": "Source code from Chapter 9 of Running Serverless",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
